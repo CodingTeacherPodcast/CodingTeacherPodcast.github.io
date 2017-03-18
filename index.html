@@ -1,1 +1,108 @@
-Hello, coding teachers of this world
+<!DOCTYPE html>
+<html>
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="w3.css">
+<link rel="stylesheet" href="css.css?family=Raleway">
+<link rel="stylesheet" href="font-awesome.min.css">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+body, html {
+    height: 100%;
+    line-height: 1.8;
+}
+/* Full height image header */
+.bgimg-1 {
+    background-position: center;
+    background-size: cover;
+    background-image: url("/w3images/mac.jpg");
+    min-height: 100%;
+}
+.w3-bar .w3-button {
+    padding: 16px;
+}
+</style>
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-card-2" id="myNavbar">
+    <a href="#home" class="w3-bar-item w3-button w3-wide">LOGO</a>
+    <!-- Right-sided navbar links -->
+    <div class="w3-right w3-hide-small">
+	  <a href="about.html">ABOUT</a>&nbsp;&nbsp;&nbsp;
+	  <a href="contribute.html">CONTRIBUTE!</a>&nbsp;&nbsp;&nbsp;
+	  <a href="donate.html">DONATE</a>&nbsp;&nbsp;&nbsp;
+	  <a href="contact.html">CONTACT</a>&nbsp;&nbsp;&nbsp;
+      <a href="#podcasts">PODCASTS</a>&nbsp;&nbsp;&nbsp;
+	  <!--<a href="#home" class="w3-bar-item w3-button"><i class="fa fa-home"></i> HOME</a>-->
+    </div>
+    <!-- Hide right-floated links on small screens and replace them with a menu icon -->
+
+    <a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="w3_open()">
+      <i class="fa fa-bars w3-padding-right w3-padding-left"></i>
+    </a>
+  </div>
+</div>
+
+<!-- Sidebar on small screens when clicking the menu icon -->
+<nav class="w3-sidebar w3-bar-block w3-black w3-card-2 w3-animate-left w3-hide-medium w3-hide-large" style="display:none" id="mySidebar">
+  <a href="javascript:void(0)" onclick="w3_close()" >Close ×</a>
+  <a href="about.html" onclick="w3_close()" >ABOUT</a>
+  <a href="contribute.html" onclick="w3_close()" >CONTRIBUTE!</a>
+  <a href="donate.html" onclick="w3_close()" >DONATE</a>
+  <a href="contact.html" onclick="w3_close()" >CONTACT</a>
+  <a href="#podcasts" onclick="w3_close()" >PODCASTS</a>
+</nav>
+
+<!-- Header with full-height image -->
+<header class="bgimg-1 w3-display-container w3-grayscale-min" id="home">
+  <div class="w3-display-left w3-padding-xxlarge w3-text-black">
+    <span class="w3-jumbo w3-hide-small">Coding Teacher Podcast</span><br>
+    <span class="w3-xxlarge w3-hide-large w3-hide-medium">Coding Teacher Podcast</span><br>
+    <p><a href="about.html" class="w3-button w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">A Podcast for teaching coders, coding teachers and activists of Codeweek.EU</a></p>
+  </div>
+</header>
+
+<!-- Podcast Section -->
+<div class="w3-container w3-padding-128" id="podcasts">
+  <h3 class="w3-center">Podcasts</h3>
+  <a href = "20170316_simon/index.html">
+	  <div class="w3-row-padding w3-center" style="margin-top:64px">
+		<div class="w3-quarter">
+		  <p>03.05.2017</p>
+		  <p class="w3-large">Interview with Simon Heppner</p>
+		  <p>Interview with probably the youngest programming teacher of Europe.</p>
+		</div>
+	</a>
+</div>
+
+<!-- Promo Section "Statistics" -->
+<!--<div class="w3-container w3-row w3-center w3-dark-grey w3-padding-64">
+  <div class="w3-quarter">
+    <span class="w3-xxlarge">2+</span>
+    <br>Members
+  </div>
+  <div class="w3-quarter">
+    <span class="w3-xxlarge">1+</span>
+    <br>Podcasts
+  </div>
+</div>-->
+
+<!-- Footer -->
+<footer class="w3-center w3-black w3-padding-64">
+  <a href="#home" class="w3-button"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
+  <div class="w3-xlarge w3-section">
+	  <!--
+    <i class="fa fa-facebook-official w3-hover-text-indigo"></i>
+    <i class="fa fa-flickr w3-hover-text-red"></i>
+    <i class="fa fa-instagram w3-hover-text-purple"></i>
+    <i class="fa fa-twitter w3-hover-text-light-blue"></i>
+    <i class="fa fa-linkedin w3-hover-text-indigo"></i>
+     -->
+  </div>
+</footer>
+ 
+</body>
+</html>
