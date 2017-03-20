@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link href="https://codingteacherpodcast.github.io/feedmp3.xml" rel="self" type="application/rss+xml"/>
+    <title>Coding Teacher Podcast</title>
+    <description>A podcast about teaching how to code, for friends of 
+    the Codeweek.EU project and for anyone interested in teaching and 
+    coding.</description>
+    <link>https://codingteacherpodcast.github.io</link>
+    <language>en</language>
+    <copyright>Copyright 2017 CC-BY 4.0</copyright>
+    <lastBuildDate>Sun, 19 Mar 2017 22:33:00 +0100</lastBuildDate>
+    <pubDate>Sun, 19 Mar 2017 22:33:00 +0100</pubDate>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <webMaster>horst.jens@spielend-programmieren.at (Horst JENS)</webMaster>
+    <image>
+      <url>http://spielend-programmieren.at/biertaucherlogo.jpg</url>
+      <title>CodingTeacherPodcast</title>
+      <link>https://codingteacherpodcast.github.io</link>
+    </image>
+    <itunes:author>Horst JENS and others</itunes:author>
+    <itunes:subtitle>A podcast about teaching how to code, for friends of 
+    the Codeweek.EU project and for anyone interested in teaching and coding.</itunes:subtitle>
+    <itunes:summary>A loose serie of interviews with coding teachers 
+    and activists. </itunes:summary>
+    <itunes:image href="http://spielend-programmieren.at/biertaucherlogo.jpg"/>
+    <itunes:owner>
+      <itunes:name>Horst JENS</itunes:name>
+      <itunes:email>horstjens@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:category text="Technology">
+    <itunes:category text="Podcasting"/>
+    </itunes:category>
+
+
+<item>
+    <title>Episode 005: Simon Heppner (age 10) talks about his first python workshop as a teacher</title>
+    <link>https://codingteacherpodcast.github.io/20170316_simon/index.html</link>
+    <pubDate>Mon, 20 Mar 2017 06:53:00 +0100</pubDate>
+    <guid>https://archive.org/download/CodingTeacherPodcast_20170316_Simon/20170316_simon_heppner.mp3</guid>
+    <atom:link rel="payment" href="https://flattr.com/submit/auto?user_id=horstjens&amp;url=https%3A%2F%2Fcodingteacherspodcast.github.io%2F20170316_simon%2Findex.html&amp;title=Coding%20Teacher%20Podcast%20episode005&amp;language=en_EN&amp;category=audio" type="text/html"/>
+    <description>Simon Heppner, age 10, tells in this Interview with Horst JENS about his first Python Coding workshop that he gave to his classmates..   See https://codingteacherpodcast.github.io for all episodes of the CodingTeacherPodcast
+    </description>
+      <content:encoded><![CDATA[
+
+                           Simon Heppner, age 10, tells in this Interview with Horst JENS about his first Python Coding workshop that he gave to his classmates.
+
+    ]]></content:encoded>
+<enclosure url="https://archive.org/download/CodingTeacherPodcast_20170316_Simon/20170316_simon_heppner.mp3" length="4452937" type="audio/mpeg"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>Simon Heppner, age 10, tells in this Interview with Horst JENS about his first Python Coding workshop that he gave to his classmates.</itunes:subtitle>
+<itunes:summary>Shownotes: https://codingteacherpodcast.github.io/20170316_simon/index.html
+</itunes:summary>
+<itunes:duration>0:04:38</itunes:duration>
+<itunes:keywords>podcast, Coding, teacher, CodingTeacherPodcast, Python, teaching, school, Vienna, Austria, student-teaching-students, children, Simon Heppner, spielend-programmieren
+</itunes:keywords>
+</item>
+
+<item>
+    <title>Episode 004: Bhargav Srinivasea Desikan about Google Summer of Code</title>
+    <link>https://codingteacherpodcast.github.io/20170312_soc/index.html</link>
+    <pubDate>Mon, 20 Mar 2017 06:46:00 +0100</pubDate>
+    <guid>https://archive.org/download/20170311Pyconsk2017BhargavSrinivaseaDesikanAboutGoogleSummerOfCodeProgram/20170311-pyconsk2017_Bhargav_Srinivasea_Desikan__about_google_summer_of_code_program.mp3</guid>
+    <atom:link rel="payment" href="https://flattr.com/submit/auto?user_id=horstjens&amp;url=https%3A%2F%2Fcodingteacherspodcast.github.io%2F20170312_soc%2Findex.html&amp;title=Coding%20Teacher%20Podcast%20episode004&amp;language=en_EN&amp;category=audio" type="text/html"/>
+    <description>Bhargav Srinivasea Desikan talks in this interview at the PyConSK conference 2017 about his own experience with Google Summer of Code. He explains how he come first into contact with open Source projects and how the Google Summer of code program changed his life.   See https://codingteacherpodcast.github.io for all episodes of the CodingTeacherPodcast
+    </description>
+      <content:encoded><![CDATA[
+
+                           Bhargav Srinivasea Desikan talks in this interview at the PyConSK conference 2017 about his own experience with Google Summer of Code. He explains how he come first into contact with open Source projects and how the Google Summer of code program changed his life. 
+
+    ]]></content:encoded>
+<enclosure url="https://archive.org/download/20170311Pyconsk2017BhargavSrinivaseaDesikanAboutGoogleSummerOfCodeProgram/20170311-pyconsk2017_Bhargav_Srinivasea_Desikan__about_google_summer_of_code_program.mp3" length="8986671" type="audio/mpeg"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>Bhargav Srinivasea Desikan talks in this interview at the PyConSK conference 2017 about his own experience with Google Summer of Code. He explains how he come first into contact with open Source projects and how the Google Summer of code program changed his life. </itunes:subtitle>
+<itunes:summary>Shownotes: https://codingteacherpodcast.github.io/20170312_soc/index.html
+</itunes:summary>
+<itunes:duration>0:04:23</itunes:duration>
+<itunes:keywords>podcast, Coding, teacher, CodingTeacherPodcast, Google, Summer of Code, gsoc, learning, open source, floss, foss, job, student, recruiting, volunteering, Bhargav Srinivasea Desikan
+</itunes:keywords>
+</item>
+
+<item>
+    <title>Episode 003: Valdemar Švábenskỳ about teaching python to freshmen students</title>
+    <link>https://codingteacherpodcast.github.io/20170311_svabensky/index.html</link>
+    <pubDate>Mon, 20 Mar 2017 06:33:00 +0100</pubDate>
+    <guid>https://archive.org/download/20170311WaldemarSvabenskyAboutTeachingPython/20170311-pyconsk2017_Waldemar_Svabensky__about_teaching.mp3</guid>
+    <atom:link rel="payment" href="https://flattr.com/submit/auto?user_id=horstjens&amp;url=https%3A%2F%2Fcodingteacherspodcast.github.io%2F20170311_svabensky%2Findex.html&amp;title=Coding%20Teacher%20Podcast%20episode003&amp;language=en_EN&amp;category=audio" type="text/html"/>
+    <description>Valdemar Švábenskỳ talks in this interview at the PyConSK conference 2017 about teaching Python to freshman students, of differences in cooperation between female and male students and he explains how to become elected as "teacher of the year".  See https://codingteacherpodcast.github.io for all episodes of the CodingTeacherPodcast
+    </description>
+      <content:encoded><![CDATA[
+
+                           Valdemar Švábenskỳ talks in this interview at the PyConSK conference 2017 about teaching Python to freshman students, of differences in cooperation between female and male students and he explains how to become elected as "teacher of the year". 
+
+    ]]></content:encoded>
+<enclosure url="https://archive.org/download/20170311WaldemarSvabenskyAboutTeachingPython/20170311-pyconsk2017_Waldemar_Svabensky__about_teaching.mp3" length="15678484" type="audio/mpeg"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>Valdemar Švábenskỳ talks in this interview at the PyConSK conference 2017 about teaching Python to freshman students, of differences in cooperation between female and male students and he explains how to become elected as "teacher of the year".  See https://codingteacherpodcast.github.io for all episodes of the CodingTeacherPodcast</itunes:subtitle>
+<itunes:summary>Shownotes: https://codingteacherpodcast.github.io/20170311_svabensky/index.html
+</itunes:summary>
+<itunes:duration>0:16:19</itunes:duration>
+<itunes:keywords>podcast, Coding, teacher, CodingTeacherPodcast, Python, teaching, university, Bratislava, Slovakia, peer-programming, gender, Valdemar Švábenskỳ 
+</itunes:keywords>
+</item>
+
+<item>
+    <title>Episode 002: Joek van Montfort speaks Scratch conference in Boston 2016</title>
+    <link>https://codingteacherpodcast.github.io/20160928_joek_scratch/index.html</link>
+    <pubDate>Mon, 20 Mar 2017 06:33:00 +0100</pubDate>
+    <guid>https://archive.org/download/joek-scratch2016_201703/joek-scratch2016.mp3</guid>
+    <atom:link rel="payment" href="https://flattr.com/submit/auto?user_id=horstjens&amp;url=https%3A%2F%2Fcodingteacherspodcast.github.io%2F20160928_joek_scratch%2Findex.html&amp;title=Coding%20Teacher%20Podcast%20episode002&amp;language=en_EN&amp;category=audio" type="text/html"/>
+    <description>Joek van Montfort speaks with Horst JENS about the Scratch conference 2016 in Boston, USA. See https://codingteacherpodcast.github.io for all episodes of the CodingTeacherPodcast
+    </description>
+      <content:encoded><![CDATA[
+
+                           Joek van Montfort speaks with Horst JENS about the Scratch conference 2016 in Boston, USA. 
+
+    ]]></content:encoded>
+<enclosure url="https://archive.org/download/joek-scratch2016_201703/joek-scratch2016.mp3" length="24346112" type="audio/mpeg"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>Joek van Montfort speaks with Horst JENS about the Scratch conference 2016 in Boston, USA.</itunes:subtitle>
+<itunes:summary>Shownotes: https://codingteacherpodcast.github.io/20160928_joek_scratch/index.html
+</itunes:summary>
+<itunes:duration>0:27:30</itunes:duration>
+<itunes:keywords>podcast, Coding, teacher, CodingTeacherPodcast, Scratch, conference, Boston, USA, visual-coding, Joek_van_Montfort
+</itunes:keywords>
+</item>
+
+<item>
+    <title>Episode 001: Joek van Montfort speaks about Mozfest, the Mozilla conference in London</title>
+    <link>https://codingteacherpodcast.github.io/20160928_joek_mozfest/index.html</link>
+    <pubDate>Mon, 20 Mar 2017 06:18:00 +0100</pubDate>
+    <guid>https://archive.org/download/joek-mozfest2015/joek-mozfest2015.mp3</guid>
+    <atom:link rel="payment" href="https://flattr.com/submit/auto?user_id=horstjens&amp;url=https%3A%2F%2Fcodingteacherspodcast.github.io%2F20160928_joek_mozfest%2Findex.html&amp;title=Coding%20Teacher%20Podcast%20episode001&amp;language=en_EN&amp;category=audio" type="text/html"/>
+    <description>Joek van Montfort speaks with Horst JENS about the Mozfest Mozilla programming conference in London. See https://codingteacherpodcast.github.io for all episodes of the CodingTeacherPodcast
+    </description>
+      <content:encoded><![CDATA[
+
+                           Joek van Montfort speaks with Horst JENS about the Mozfest Mozilla programming conference in London.
+
+    ]]></content:encoded>
+<enclosure url="https://archive.org/download/joek-mozfest2015/joek-mozfest2015.mp3" length="14835712" type="audio/mpeg"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>Joek van Montfort speaks with Horst JENS about the Mozfest Mozilla programming conference in London.</itunes:subtitle>
+<itunes:summary>Shownotes: https://codingteacherpodcast.github.io/20160928_joek_mozfest/index.html
+</itunes:summary>
+<itunes:duration>0:16:58</itunes:duration>
+<itunes:keywords>podcast, Coding, teacher, CodingTeacherPodcast, Mozfest, conference, festival, open Internet, London, mozilla, web-programming, Joek_van_Montfort
+</itunes:keywords>
+</item>
+
+
+  </channel>
+</rss>
