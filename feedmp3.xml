@@ -149,6 +149,28 @@
 </itunes:keywords>
 </item>
 
+<item>
+    <title>Episode 000: Andrea Mayr about Scratch conference 2016 and her turtlestitch project</title>
+    <link>https://codingteacherpodcast.github.io/20160828_andrea_mayr/index.html</link>
+    <pubDate>Mon, 20 Mar 2017 06:15:00 +0100</pubDate>
+    <guid>https://archive.org/download/andrea_mayr_boston2016/interview_andrea_mayr_boston2016.mp3</guid>
+    <atom:link rel="payment" href="https://flattr.com/submit/auto?user_id=horstjens&amp;url=https%3A%2F%2Fcodingteacherspodcast.github.io%2F20160828_andrea_mayr%2Findex.html&amp;title=Coding%20Teacher%20Podcast%20episode000&amp;language=en_EN&amp;category=audio" type="text/html"/>
+    <description>Andrea Mayr tells about her visit at the Scratch conference 2016 in Boston and about the state of ther turtlestitch project, visual programming of stitching machines and art. See https://codingteacherpodcast.github.io for all episodes of the CodingTeacherPodcast
+    </description>
+      <content:encoded><![CDATA[
+
+                           Andrea Mayr tells about her visit at the Scratch conference 2016 in Boston and about the state of ther turtlestitch project, visual programming of stitching machines and art.
+
+    ]]></content:encoded>
+<enclosure url="https://archive.org/download/andrea_mayr_boston2016/interview_andrea_mayr_boston2016.mp3" length="35643904" type="audio/mpeg"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Shownotes: https://codingteacherpodcast.github.io/20160828_andrea_mayr/index.html
+</itunes:summary>
+<itunes:duration>0:42:31</itunes:duration>
+<itunes:keywords>podcast, Coding, teacher, CodingTeacherPodcast, programming, snap, scratch, conference, turtlestitch, stitching, cam, art, visual-programming, business, Andrea Mayr
+</itunes:keywords>
+</item>
 
   </channel>
 </rss>
