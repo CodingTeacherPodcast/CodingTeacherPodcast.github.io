@@ -9,8 +9,8 @@
     <link>https://codingteacherpodcast.github.io</link>
     <language>en</language>
     <copyright>Copyright 2017 CC-BY 4.0</copyright>
-    <lastBuildDate>Mon, 20 Mar 2017 07:08:00 +0100</lastBuildDate>
-    <pubDate>Mon, 20 Mar 2017 07:08:00 +0100</pubDate>
+    <lastBuildDate>Tue, 28 Mar 2017 10:08:00 +0100</lastBuildDate>
+    <pubDate>Tue, 28 Mar 2017 10:08:00 +0100</pubDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <webMaster>horst.jens@spielend-programmieren.at (Horst JENS)</webMaster>
     <image>
@@ -33,6 +33,30 @@
     <itunes:category text="Podcasting"/>
     </itunes:category>
 
+<item>
+    <title>Episode 006: Paolo Perfahl, age 13, tells in this Interview with about his first Gamejam</title>
+    <link>https://codingteacherpodcast.github.io/20170323_paolo/index.html</link>
+    <pubDate>Tue, 28 Mar 2017 10:05:00 +0100</pubDate>
+    <guid>https://archive.org/download/paologamejam/paolo_perfahl_gamejam.mp3</guid>
+    <atom:link rel="payment" href="https://flattr.com/submit/auto?user_id=horstjens&amp;url=https%3A%2F%2Fcodingteacherspodcast.github.io%2F20170323_paolo%2Findex.html&amp;title=Coding%20Teacher%20Podcast%20episode006&amp;language=en_EN&amp;category=audio" type="text/html"/>
+    <description>    <title>Episode 006: Paolo Perfahl, age 13, tells in this Interview with about his first Gamejam (Austria GameJam 2015) where he participated two years ago, together with other young and old game programmers.</title>
+   See https://codingteacherpodcast.github.io for all episodes of the CodingTeacherPodcast
+    </description>
+      <content:encoded><![CDATA[
+
+                               <title>Episode 006: Paolo Perfahl, age 13, tells in this Interview with about his first Gamejam (Austria GameJam 2015) where he participated two years ago, together with other young and old game programmers.</title>
+
+
+    ]]></content:encoded>
+<enclosure url="https://archive.org/download/paologamejam/paolo_perfahl_gamejam.mp3" length="6621727" type="audio/mpeg"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Shownotes: https://codingteacherpodcast.github.io/20170323_paolo/index.html
+</itunes:summary>
+<itunes:duration>0:06:53</itunes:duration>
+<itunes:keywords> Python, art, gamejam, Vienna, Austria, children, spielend-programmieren, Paolo Perfahl
+</itunes:keywords>
+</item>
 
 <item>
     <title>Episode 005: Simon Heppner (age 10) talks about his first python workshop as a teacher</title>
