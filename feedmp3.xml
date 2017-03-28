@@ -9,8 +9,8 @@
     <link>https://codingteacherpodcast.github.io</link>
     <language>en</language>
     <copyright>Copyright 2017 CC-BY 4.0</copyright>
-    <lastBuildDate>Tue, 28 Mar 2017 10:08:00 +0100</lastBuildDate>
-    <pubDate>Tue, 28 Mar 2017 10:08:00 +0100</pubDate>
+    <lastBuildDate>Tue, 28 Mar 2017 15:08:00 +0100</lastBuildDate>
+    <pubDate>Tue, 28 Mar 2017 15:08:00 +0100</pubDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <webMaster>horst.jens@spielend-programmieren.at (Horst JENS)</webMaster>
     <image>
@@ -193,6 +193,30 @@
 </itunes:summary>
 <itunes:duration>0:42:31</itunes:duration>
 <itunes:keywords>podcast, Coding, teacher, CodingTeacherPodcast, programming, snap, scratch, conference, turtlestitch, stitching, cam, art, visual-programming, business, Andrea Mayr
+</itunes:keywords>
+</item>
+
+
+<item>
+    <title>Episode xxx: Laura Gaetano about her first GameJam (Austria Gamejam 2014)</title>
+    <link>https://codingteacherpodcast.github.io/20140126_laura/index.html</link>
+    <pubDate>Mon, 20 Mar 2017 05:15:00 +0100</pubDate>
+    <guid>https://archive.org/download/Austriagamejam2014Laura/20140126-austriagamejam2014-laura_(englisch).mp3</guid>
+    <atom:link rel="payment" href="https://flattr.com/submit/auto?user_id=horstjens&amp;url=https%3A%2F%2Fcodingteacherspodcast.github.io%2F20140126_laura%2Findex.html&amp;title=Coding%20Teacher%20Podcast%20episodexxx&amp;language=en_EN&amp;category=audio" type="text/html"/>
+    <description>Laura Gaetano about her first GameJam (Austria Gamejam 2014)
+    </description>
+      <content:encoded><![CDATA[
+
+                           Laura Gaetano about her first GameJam (Austria Gamejam 2014)
+
+    ]]></content:encoded>
+<enclosure url="https://archive.org/download/Austriagamejam2014Laura/20140126-austriagamejam2014-laura_(englisch).mp3" length="23023282" type="audio/mpeg"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Shownotes: https://codingteacherpodcast.github.io/20140126_laura/index.html
+</itunes:summary>
+<itunes:duration>0:42:31</itunes:duration>
+<itunes:keywords>podcast, CodingTeacherPodcast, programming, Gamejam, Vienna, 
 </itunes:keywords>
 </item>
 
