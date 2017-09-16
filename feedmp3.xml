@@ -9,8 +9,8 @@
     <link>https://codingteacherpodcast.github.io</link>
     <language>en</language>
     <copyright>Copyright 2017 CC-BY 4.0</copyright>
-    <lastBuildDate>Tue, 28 Mar 2017 15:08:00 +0100</lastBuildDate>
-    <pubDate>Tue, 28 Mar 2017 15:08:00 +0100</pubDate>
+    <lastBuildDate>Sat, 16 Sep 2017 06:08:00 +0100</lastBuildDate>
+    <pubDate>Sat, 16 Sep 2017 06:08:00 +0100</pubDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <webMaster>horst.jens@spielend-programmieren.at (Horst JENS)</webMaster>
     <image>
@@ -32,6 +32,36 @@
     <itunes:category text="Technology">
     <itunes:category text="Podcasting"/>
     </itunes:category>
+
+
+
+
+<item>
+    <title>Episode 007: Indy game developer James Patton speaks about his game Spinnortality</title>
+    <link>https://codingteacherpodcast.github.io/20170916_spinnortality/index.html</link>
+    <pubDate>Sat, 16 Sep 2017 06:08:00 +0100</pubDate>
+    <guid>https://archive.org/download/CodingTeacherPodcastJamesPattonAboutHisGameSpinnortality/spinnortality.mp3</guid>
+    <atom:link rel="payment" href="https://flattr.com/submit/auto?user_id=horstjens&amp;url=https%3A%2F%2Fcodingteacherspodcast.github.io%2F20170916_spinnoratality%2Findex.html&amp;title=Coding%20Teacher%20Podcast%20episode007&amp;language=en_EN&amp;category=audio" type="text/html"/>
+    <description>    <title>Episode 007: In this interview made at the Play Austria Event 2017/09 in Vienna, Indy Game developer James Patton speaks about his "evil global company simulator" game "Spinnortality". Besides explaining how he self-teached himself programming, James points out how is background in literature helps him develop better, "richer" games than a tech-background would do.</title>
+   See https://codingteacherpodcast.github.io for all episodes of the CodingTeacherPodcast
+    </description>
+      <content:encoded><![CDATA[
+
+                               <title>In this interview made at the Play Austria Event 2017/09 in Vienna, Indy Game developer James Patton speaks about his "evil global company simulator" game "Spinnortality". Besides explaining how he self-teached himself programming, James points out how is background in literature helps him develop better, "richer" games than a tech-background would do.</title>
+
+
+    ]]></content:encoded>
+<enclosure url="https://archive.org/download/CodingTeacherPodcastJamesPattonAboutHisGameSpinnortality/spinnortality.mp3" length="22368339" type="audio/mpeg"/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle></itunes:subtitle>
+<itunes:summary>Shownotes: https://codingteacherpodcast.github.io/20170916_spinnortality/index.html
+</itunes:summary>
+<itunes:duration>0:23:18</itunes:duration>
+<itunes:keywords> coding, game-programming, self-learning, literatur, economics, podcast, James PATTON, spinnortality, game
+</itunes:keywords>
+</item>
+
+
 
 <item>
     <title>Episode 006: Paolo Perfahl, age 13, tells in this Interview with about his first Gamejam</title>
